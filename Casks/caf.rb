@@ -1,6 +1,6 @@
 cask "caf" do
-  version "2.0"
-  sha256 "7d438f6413720d767ec0c4ad5b28d5faa1eb936c961cd5873d5fc63dab93c0d9"
+  version "2.1"
+  sha256 "52ab49e1409caad6577f1da0abe1df72b113f5e07c31c22e8fc82167871455be"
 
   url "https://github.com/b12031106/caf-menu-bar/releases/download/v#{version}/caf-#{version}.dmg"
   name "caf"
