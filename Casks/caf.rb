@@ -1,10 +1,10 @@
 cask "caf" do
-  version "2.2"
-  sha256 "7af8eec56ab46d0e93c5a8e53d95a6eff117a24d19cb2e20f99b6a3219c59d52"
+  version "2.3"
+  sha256 "2208aea166b989de364fd4e39014d2ef3bc64594f6e6ae09435cda92fc4c6afc"
 
   url "https://github.com/b12031106/caf-menu-bar/releases/download/v#{version}/caf-#{version}.dmg"
   name "caf"
-  desc "Menu bar app that toggles caffeinate -dims"
+  desc "Menu bar app that prevents sleep with caffeinate or pmset"
   homepage "https://github.com/b12031106/caf-menu-bar"
 
   app "caf.app"
